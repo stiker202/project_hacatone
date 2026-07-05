@@ -1,4 +1,25 @@
 .clik {
-    margin-left: 700px;
+    margin-left: 665px;
     margin-top: 200px;
+    font-size: 50px;
+}
+
+.card4 {
+    margin-left: 695px;
+}
+
+.soglashenie {
+    width: 150px;
+    height: 40px;
+    border-radius: 100px;
+    background-color: rgb(157, 255, 226);
+    margin-left: 0px;
+}
+
+body {
+    background-color: bisque;
+}
+
+.hr {
+    
 }
